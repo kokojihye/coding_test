@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Question02 {
 
     /**
-     * [문제 2] 문장 속 단어
+     * [문제 2] 대소문자 변환
      * 예시 입력, 출력은 Test 코드를 참고한다.
 
      * 설명
